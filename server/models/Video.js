@@ -27,7 +27,7 @@ const VideoSchema = mongoose.Schema({
         type: Number,
         default: 0
     },
-    duraton: {
+    duration: {
         type: String,
     },
     thumbnail: {
